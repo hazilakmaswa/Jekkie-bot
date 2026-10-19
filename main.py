@@ -1,4 +1,5 @@
 import discord
+import audioop
 from discord.ext import commands
 import os
 import time
